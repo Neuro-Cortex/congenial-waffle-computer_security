@@ -1,0 +1,29 @@
+# Python
+__pycache__/
+*.py[cod]
+.venv/
+venv/
+.env
+.ipynb_checkpoints/
+
+# Editors / OS
+.vscode/
+.idea/
+.DS_Store
+Thumbs.db
+
+# Experiment outputs and large artifacts
+outputs/
+checkpoints/
+model_cache/
+*.pt
+*.pth
+*.safetensors
+*.ckpt
+*.onnx
+
+# Local secrets and private data
+secrets/
+private_data/
+*.key
+*.pem
