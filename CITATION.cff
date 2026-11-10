@@ -1,0 +1,15 @@
+cff-version: 1.2.0
+message: "If you use this research repository, cite the associated manuscript after its bibliographic details are finalized."
+title: "Understanding and Steering Internal Safety Features in Large Language Models"
+type: software
+authors:
+  - family-names: Das
+    given-names: Pollob
+  - family-names: Biswas
+    given-names: Avishek
+  - family-names: Sultana
+    given-names: Syeda Afrin
+  - family-names: Rahaman Shihab
+    given-names: Saidur
+  - family-names: Tanmoy
+    given-names: MD. SIAM AFROZ
